@@ -11,3 +11,8 @@ cnn_model2.pth: The pre-trained CNN model file.
 requirements.txt: The list of dependencies required to run the application.
 
 Please follow the report.pdf for detailed instructions.
+
+
+### Contact
+
+If you have any questions or comments, feel free to contact me on [Email](mailto:adarshreddybandaru@gmail.com)
