@@ -9,4 +9,5 @@ Files
 Code_demo.py: The main Streamlit application script.
 cnn_model2.pth: The pre-trained CNN model file.
 requirements.txt: The list of dependencies required to run the application.
-README.md: This file.
+
+Please follow the report.pdf for detailed instructions.
